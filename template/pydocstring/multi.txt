@@ -1,6 +1,6 @@
 """
 :param {{_args_}}:
-:type {{_args__}}:
+:type {{_args_}}:
 :return:
 :rtype: {{_returnType_}}
 """
