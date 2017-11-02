@@ -1,4 +1,6 @@
-"""{{_header_}}
+"""
 :param {{_args_}}:
+:type {{_args__}}:
+:return:
 :rtype: {{_returnType_}}
 """
