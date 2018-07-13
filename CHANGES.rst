@@ -1,3 +1,80 @@
+Version 0.6.0
+-------------
+Released on Jun 30th 2018
+
+- Bug fix
+
+  - indent doesn't work with `{{_return_type_}}` or `{{_nested_indent_}}`
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/51
+
+  Thx @JPFrancoia
+
+Version 0.5.0
+-------------
+Released on Jun 30th 2018
+
+- Bug fix
+
+  - Generate missing param
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/44
+
+Version 0.4.0
+-------------
+Released on May 6th 2018
+
+- Bug fix
+
+  - Default parameter problem
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/46
+
+Version 0.3.0
+-------------
+Released on Dec 10th 2017
+
+- Bug fix
+
+  - Nested typed args(e.g `List[int, int, int]`) are broken
+  - Cosmetic changes
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/40
+
+
+Version 0.2.0
+-------------
+Released on Nov 19th 2017
+
+- Minor changes
+
+  - Notice template `{{_return_type_}}` does not add extra blank
+  - Now template shows as is
+
+Version 0.1.6
+-------------
+Released on Nov 18th 2017
+
+- Minor changes
+
+  - Change function name camelCase to snake_case
+  - Change variable name camelCase to snake_case
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/34
+
+Version 0.1.5
+-------------
+Released on Nov 18th 2017
+
+- Fix bug
+
+  - Invalid space after {{_header_}}
+  - Document's custom template section was wrong
+
+  see https://github.com/heavenshell/vim-pydocstring/issues/34
+
+  Thx @themightyoarfish
+
 Version 0.1.4
 -------------
 Released on Sep 10th 2017
