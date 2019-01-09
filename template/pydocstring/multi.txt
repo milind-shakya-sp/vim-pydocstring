@@ -1,7 +1,9 @@
-"""{{_header_}}
+    """
+{{_header_}}
 
-:param {{_args_}}:
-:type  {{_args_}}:
-:return:
-:rtype: {{_return_type_}}
-"""
+    Args:
+    {{_args_}}::
+
+    Returns:
+    {{_return_type_}}:
+    """
